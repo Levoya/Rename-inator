@@ -1,2 +1,2 @@
 # Rename-inator
-Simple file renaming file written in Python
+Simple file renaming written in Python
