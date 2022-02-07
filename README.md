@@ -1,2 +1,2 @@
-# Renameer (Rename-inator)
+# Renamer (Rename-inator)
 Simple file renaming written in Python
