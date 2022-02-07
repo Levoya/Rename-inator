@@ -1,0 +1,8 @@
+Rem Create a Batch file that, within a single directory, renames every file to "[FILENAME](#).png" in consecutive numbered order while maintaining order of original files
+Rem TODO: Create a GUI using PySimpleGUI
+Rem TODO: Use PyInstaller to create a single executable file
+
+Rem Done:
+Rem DONE: Iterate through every file in current directory
+Rem DONE: Create or Iterate counter
+Rem DONE: Rename files to "[FILENAME]([ITERATOR NUMBER]).png"
